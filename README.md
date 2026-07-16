@@ -10,7 +10,7 @@
 # train
 开始训练
 ``` python
-  python teain.py --steps=10000         \
+  python train.py --steps=10000         \
                   --architecture="915"  \
                   --batch_size=128      \
                   --save-best-only=1    \
